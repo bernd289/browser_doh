@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
+"DnsOverHttpsTemplates"="https://freedns.controld.com/p1{?dns}"
+"DNSInterceptionChecksEnabled"=dword:00000001
+"DnsOverHttpsMode"="secure"
