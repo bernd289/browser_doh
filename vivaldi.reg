@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Vivaldi]
-"DnsOverHttpsTemplates"="https://freedns.controld.com/p1{?dns}"
+"DnsOverHttpsTemplates"="https://doh.ffmuc.net/dns-query{?dns}"
 "DNSInterceptionChecksEnabled"=dword:00000001
 "DnsOverHttpsMode"="secure"
